@@ -1,5 +1,4 @@
 Target dalam waktu dekat
 - Menguasai javascript
-- Mempertajam pengetahuan laravel
 - Menguatkan materi css
 - Belajar frontend
