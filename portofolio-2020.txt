@@ -1,6 +1,4 @@
-Target saya ditahun 2020
-- Menjadi development expert
-- Belajar web desaign
-- Menjadi fullstack developer expert
-- Memperbanyak portfolio min 3
-- Lebih berani lagi dalam mengambil kesempatan
+Target dalam waktu dekat
+- Menguasai javascript
+- Memperkuat pengetahuan tentang laravel
+- menguatkan materi css
