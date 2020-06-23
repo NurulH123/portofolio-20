@@ -1,0 +1,4 @@
+Target dalam 6 bulan
+- Belajar javascript
+- Memperdalam laravel
+- Pertajam materi css
