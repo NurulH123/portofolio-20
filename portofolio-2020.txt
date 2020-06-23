@@ -3,4 +3,5 @@ Target dalam waktu dekat
   * ES6
   * DOM
 - Menguatkan materi css
-- Belajar frontend
+  * Bootstrap
+- Web desaign
