@@ -1,4 +1,6 @@
 Target dalam waktu dekat
 - Menguasai javascript
+  * ES6
+  * DOM
 - Menguatkan materi css
 - Belajar frontend
